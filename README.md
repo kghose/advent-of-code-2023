@@ -1,2 +1,3 @@
-# advent-of-code-2023
-golang advent of code solutions
+# Advent of Code 2023
+
+Using advent of code 2023 to learn `golang`.
